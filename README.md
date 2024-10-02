@@ -1,9 +1,4 @@
 # Android device tree for samsung SM-X210 (qssi)
 
-```
-#
-# Copyright (C) 2024 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+# Clone
+     git clone https://github.com/TND-STAGING/android_device_samsung_gta9pwifi.git -b staging device/samsung/gta9pwifi
